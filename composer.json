@@ -1,0 +1,17 @@
+{
+    "name": "test/smail",
+    "description": "all app start",
+    "authors": [
+        {
+            "name": "Tgm Tang",
+            "email": "tanguiming@163.com"
+        }
+    ],
+    "require": {    
+    },
+    "autoload": {
+        "psr-4": {
+            "Test\\Smail\\": "src/"
+        }
+    }
+}
